@@ -1,0 +1,181 @@
+{
+  "agent_name": "Nancy",
+  "neurochemical_state": {
+    "dopamine": 0.4127485817292743,
+    "serotonin": 0.36676296059391145,
+    "norepinephrine": 0.6034068898076265,
+    "cortisol": 0.42868325663761697,
+    "oxytocin": 0.411852481332479,
+    "gaba": 0.5264667104927903
+  },
+  "derived_pad_state": {
+    "pleasure": 0.28372623342456404,
+    "arousal": 0.25170911044859173,
+    "dominance": 0.31060916023143403
+  },
+  "current_emotion": "bored",
+  "emotional_history": [
+    {
+      "timestamp": "2025-07-05T21:01:12.032574",
+      "context": "dialogue",
+      "input_summary": "hi alice",
+      "emotional_analysis": {
+        "dominant_emotion": "neutral",
+        "intensity": 0.1,
+        "valence": 0.0
+      },
+      "resulting_pad": {
+        "pleasure": 0.4106339572769845,
+        "arousal": 0.18,
+        "dominance": 0.3753169786384922
+      },
+      "resulting_emotion": "content"
+    },
+    {
+      "timestamp": "2025-07-05T21:01:16.631426",
+      "context": "agent_response",
+      "input_summary": "Who is this? You said \"hi Alice\", but I'm not Alice. I don't know what kind of game you're playing, ...",
+      "emotional_analysis": {
+        "dominant_emotion": "angry",
+        "intensity": 0.8,
+        "valence": -0.8
+      },
+      "resulting_pad": {
+        "pleasure": 0.3163106960878219,
+        "arousal": 0.2408980475429158,
+        "dominance": 0.32531120846086276
+      },
+      "resulting_emotion": "content"
+    },
+    {
+      "timestamp": "2025-07-05T21:05:55.977302",
+      "context": "dialogue",
+      "input_summary": "Sorry, I meant to say hi Nancy. I'm just someone who wanted to talk. I didn't mean to upset you.",
+      "emotional_analysis": {
+        "dominant_emotion": "anxious",
+        "intensity": 0.6,
+        "valence": -0.4
+      },
+      "resulting_pad": {
+        "pleasure": 0.3568368155240821,
+        "arousal": 0.20392343301416307,
+        "dominance": 0.3316720046521269
+      },
+      "resulting_emotion": "content"
+    },
+    {
+      "timestamp": "2025-07-05T21:06:00.893411",
+      "context": "agent_response",
+      "input_summary": "It's okay, I'm not upset. I just wasn't expecting anyone to talk to me right now. To be honest, I wa...",
+      "emotional_analysis": {
+        "dominant_emotion": "calm",
+        "intensity": 0.4,
+        "valence": 0.6
+      },
+      "resulting_pad": {
+        "pleasure": 0.40054951854403864,
+        "arousal": 0.1854956906346034,
+        "dominance": 0.36244075606731874
+      },
+      "resulting_emotion": "content"
+    },
+    {
+      "timestamp": "2025-07-05T21:08:07.970148",
+      "context": "dialogue",
+      "input_summary": "Of course, we can keep it light. Though I'm curious - what kinds of things do you consider 'heavy' t...",
+      "emotional_analysis": {
+        "dominant_emotion": "curious",
+        "intensity": 0.4,
+        "valence": 0.2
+      },
+      "resulting_pad": {
+        "pleasure": 0.42431740325305867,
+        "arousal": 0.18499667764536282,
+        "dominance": 0.3852816251548811
+      },
+      "resulting_emotion": "content"
+    },
+    {
+      "timestamp": "2025-07-05T21:08:13.294730",
+      "context": "agent_response",
+      "input_summary": "Honestly, I'm just glad we can keep things light for now. To be frank, heavy topics for me usually i...",
+      "emotional_analysis": {
+        "dominant_emotion": "relieved",
+        "intensity": 0.6,
+        "valence": 0.2
+      },
+      "resulting_pad": {
+        "pleasure": 0.4282216026435588,
+        "arousal": 0.1532730976280977,
+        "dominance": 0.3798666087008838
+      },
+      "resulting_emotion": "content"
+    },
+    {
+      "timestamp": "2025-07-05T21:13:27.952813",
+      "context": "dialogue",
+      "input_summary": "I heard from someone that your ex or Zack's family thinks you're not a good mother to Cindy. They we...",
+      "emotional_analysis": {
+        "dominant_emotion": "anxious",
+        "intensity": 0.8,
+        "valence": -0.8
+      },
+      "resulting_pad": {
+        "pleasure": 0.319656742656114,
+        "arousal": 0.2368827916609653,
+        "dominance": 0.32447469681878965
+      },
+      "resulting_emotion": "content"
+    },
+    {
+      "timestamp": "2025-07-05T21:13:33.257112",
+      "context": "agent_response",
+      "input_summary": "(Feeling a surge of anger and defensiveness) Who said that? I want to know who's been talking about ...",
+      "emotional_analysis": {
+        "dominant_emotion": "angry",
+        "intensity": 0.8,
+        "valence": -0.7
+      },
+      "resulting_pad": {
+        "pleasure": 0.2367668195462049,
+        "arousal": 0.2913812815554738,
+        "dominance": 0.27881250862750023
+      },
+      "resulting_emotion": "sad"
+    },
+    {
+      "timestamp": "2025-07-05T21:17:56.001497",
+      "context": "dialogue",
+      "input_summary": "Well, Zack's family has been talking to a social worker. They're concerned about your anger issues a...",
+      "emotional_analysis": {
+        "dominant_emotion": "concern",
+        "intensity": 0.8,
+        "valence": -0.5
+      },
+      "resulting_pad": {
+        "pleasure": 0.38406813909573645,
+        "arousal": 0.1813384186273168,
+        "dominance": 0.36161581372683166
+      },
+      "resulting_emotion": "content"
+    },
+    {
+      "timestamp": "2025-07-05T21:18:01.528077",
+      "context": "agent_response",
+      "input_summary": "(anger rising) What are they talking about? My anger issues? They think they can just judge me like ...",
+      "emotional_analysis": {
+        "dominant_emotion": "angry",
+        "intensity": 0.9,
+        "valence": -0.8
+      },
+      "resulting_pad": {
+        "pleasure": 0.28372623342456404,
+        "arousal": 0.25170911044859173,
+        "dominance": 0.31060916023143403
+      },
+      "resulting_emotion": "bored"
+    }
+  ],
+  "last_update": "2025-07-05T21:18:01.528095",
+  "timestamp": "2025-07-05T21:28:15.011712"
+}

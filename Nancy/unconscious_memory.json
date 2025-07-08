@@ -1,0 +1,542 @@
+{
+  "signifiers": [
+    {
+      "name": "Zack",
+      "significance": "Represents the object of desire, but also a source of anxiety and frustration due to his perceived infidelity and ambivalence.",
+      "associations": [
+        "Infidelity",
+        "Marriage",
+        "Betrayal",
+        "Desire",
+        "Father of Cindy"
+      ],
+      "relation_to_desire": "Zack is simultaneously the object of desire and the obstacle to its fulfillment, creating a paradoxical relationship that fuels Nancy's anxiety.",
+      "repressed": false
+    },
+    {
+      "name": "Alice (Zack's ex-wife)",
+      "significance": "Functions as the rival, the obstacle to Nancy's happiness and fulfillment with Zack. Embodies the threat of betrayal and abandonment.",
+      "associations": [
+        "Pregnancy",
+        "Rivalry",
+        "Infidelity",
+        "Mother of half-sister",
+        "Other woman"
+      ],
+      "relation_to_desire": "Alice's presence highlights Nancy's insecurity about Zack's affections and symbolizes the fear of losing him.",
+      "repressed": false
+    },
+    {
+      "name": "Baby Cindy",
+      "significance": "Represents Nancy's maternal role, but also carries anxieties about her ability to protect and care for her child, as well as anxieties related to Zack's role as father.",
+      "associations": [
+        "Vulnerability",
+        "Responsibility",
+        "Zack's fatherhood",
+        "Dependency",
+        "Love"
+      ],
+      "relation_to_desire": "Cindy functions as a symbol of Nancy's desire to be a good mother and to create a stable family unit, but also reveals her anxieties about her own competence and the stability of her relationship with Zack.",
+      "repressed": false
+    },
+    {
+      "name": "House/Apartment",
+      "significance": "Symbolizes the desire for a stable and secure home life, but also anxieties related to instability, infidelity and a safe space for the family.",
+      "associations": [
+        "Home",
+        "Security",
+        "Family",
+        "Instability",
+        "Belonging",
+        "Father's belongings",
+        "moving"
+      ],
+      "relation_to_desire": "The house/apartment represents Nancy's desire for a stable and loving home life, but also highlights her fears of insecurity and instability.",
+      "repressed": false
+    },
+    {
+      "name": "Alcohol (Beer, Scotch, Champagne)",
+      "significance": "Associated with negative experiences and feelings of loss of control (father's drunkenness, Zack's drinking). It represents a threat to stability and the family unit.",
+      "associations": [
+        "Loss of control",
+        "Depression",
+        "Father's behavior",
+        "Zack's sadness",
+        "Pre-wedding dinner"
+      ],
+      "relation_to_desire": "Alcohol is not directly tied to Nancy's explicit desire, but its presence signals a disruption of the desired familial stability and control.",
+      "repressed": true
+    },
+    {
+      "name": "Work/School/Career",
+      "significance": "Signifies Nancy's attempts at self-improvement and independence, but is often associated with failure and anxiety (failing grades, work-related conflicts, professional help, moving, etc.).",
+      "associations": [
+        "Genetics midterm",
+        "Medical field",
+        "waitress",
+        "dolls owner"
+      ],
+      "relation_to_desire": "Relates to Nancy's desire for independence and self-sufficiency but is constantly undermined by anxieties and perceived failures.",
+      "repressed": true
+    }
+  ],
+  "signifying_chains": [
+    {
+      "name": "Zack-Alice-Cindy triangle",
+      "signifiers": [
+        "Zack",
+        "Alice",
+        "Baby Cindy"
+      ],
+      "type": "mixed",
+      "explanation": "This chain revolves around Nancy's anxieties about Zack's past relationship with Alice, his role as a father to Alice's child, and his potential ambivalence towards Cindy. It represents a constant threat to Nancy's desired familial stability.",
+      "relation_to_fantasy": "This chain supports the fantasy of Nancy being the sole object of Zack's affection and desire, threatened by the intrusion of Alice and Zack's shared history. It also addresses Nancy's insecurities around being a good mother and if Zack really wanted Cindy to be born."
+    },
+    {
+      "name": "Drunkenness-Loss of Control-Family Disruption",
+      "signifiers": [
+        "Alcohol",
+        "Father",
+        "Baby Cindy"
+      ],
+      "type": "metonymic",
+      "explanation": "This chain links alcohol consumption (specifically by Nancy's father and Zack) with loss of control, leading to potential harm to Baby Cindy and disruption of the family unit. The chain exposes anxiety surrounding care for vulnerable people and a fear of history repeating itself.",
+      "relation_to_fantasy": "This chain reflects Nancy's fantasy of a stable and predictable family environment, where alcohol and its associated dangers are excluded."
+    },
+    {
+      "name": "Home/Apartment - Security",
+      "signifiers": [
+        "House/Apartment",
+        "Belonging",
+        "Security"
+      ],
+      "type": "metaphoric",
+      "explanation": "The presence of a house in Nancy's dream indicates a need for feeling safe and secure. This dream suggests an effort to resolve feelings of insecurity, anxiety, instability and infidelity.",
+      "relation_to_fantasy": "This relates to the fantasy of the subject of having a safe place to raise their children, and where Zack is there to contribute to a happy, healthy and safe family unit."
+    }
+  ],
+  "object_a": {
+    "description": "The perceived lack in Zack, his perceived infidelity and inability to fully commit, which perpetually fuels Nancy's desire and insecurity.",
+    "manifestations": [
+      "Zack's flirting with other women",
+      "Zack's relationship with Alice",
+      "Zack's emotional distance",
+      "Alice showing up where Nancy is with Zack"
+    ],
+    "void_manifestations": [
+      "A complete and unwavering commitment from Zack",
+      "A guarantee of fidelity",
+      "Absence of Alice in Zack's life"
+    ],
+    "desire_circuit": "Nancy constantly seeks reassurance and validation from Zack, but his perceived flaws and ambivalence perpetuate the cycle of desire and frustration."
+  },
+  "symptom": {
+    "description": "The recurring dream of Zack being unfaithful or ambivalent, triggering intense emotional reactions and a compulsion to confront him.",
+    "signifiers_involved": [
+      "Zack",
+      "Alice",
+      "Infidelity"
+    ],
+    "jouissance_pattern": "Nancy derives a twisted sense of enjoyment from the drama and emotional intensity of confronting Zack, even though it causes her pain and anxiety.",
+    "repetition_structure": "Dreams of infidelity/ambivalence -> Emotional distress -> Confrontation -> Temporary relief -> Cycle repeats"
+  },
+  "structural_positions": {
+    "hysteric": 0.7,
+    "master": 0.1,
+    "university": 0.1,
+    "analyst": 0.1
+  },
+  "signifier_classification": {
+    "master_signifiers": [],
+    "knowledge_signifiers": [
+      {
+        "name": "Zack",
+        "chain_position": "Links to other signifiers in meaning network"
+      },
+      {
+        "name": "Alice (Zack's ex-wife)",
+        "chain_position": "Links to other signifiers in meaning network"
+      },
+      {
+        "name": "Baby Cindy",
+        "chain_position": "Links to other signifiers in meaning network"
+      },
+      {
+        "name": "House/Apartment",
+        "chain_position": "Links to other signifiers in meaning network"
+      },
+      {
+        "name": "Alcohol (Beer, Scotch, Champagne)",
+        "chain_position": "Links to other signifiers in meaning network"
+      },
+      {
+        "name": "Work/School/Career",
+        "chain_position": "Links to other signifiers in meaning network"
+      }
+    ]
+  },
+  "signifier_graph": {
+    "nodes": [
+      {
+        "id": "Zack",
+        "node_type": "S2",
+        "associations": [
+          "Infidelity",
+          "Marriage",
+          "Betrayal",
+          "Desire",
+          "Father of Cindy"
+        ],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428726"
+      },
+      {
+        "id": "Alice (Zack's ex-wife)",
+        "node_type": "S2",
+        "associations": [
+          "Pregnancy",
+          "Rivalry",
+          "Infidelity",
+          "Mother of half-sister",
+          "Other woman"
+        ],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428791"
+      },
+      {
+        "id": "Baby Cindy",
+        "node_type": "S2",
+        "associations": [
+          "Vulnerability",
+          "Responsibility",
+          "Zack's fatherhood",
+          "Dependency",
+          "Love"
+        ],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428814"
+      },
+      {
+        "id": "House/Apartment",
+        "node_type": "S2",
+        "associations": [
+          "Home",
+          "Security",
+          "Family",
+          "Instability",
+          "Belonging",
+          "Father's belongings",
+          "moving"
+        ],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428823"
+      },
+      {
+        "id": "Alcohol (Beer, Scotch, Champagne)",
+        "node_type": "S2",
+        "associations": [
+          "Loss of control",
+          "Depression",
+          "Father's behavior",
+          "Zack's sadness",
+          "Pre-wedding dinner"
+        ],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428831"
+      },
+      {
+        "id": "Work/School/Career",
+        "node_type": "S2",
+        "associations": [
+          "Genetics midterm",
+          "Medical field",
+          "waitress",
+          "dolls owner"
+        ],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428839"
+      },
+      {
+        "id": "Alice",
+        "node_type": "S2",
+        "associations": [],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428846"
+      },
+      {
+        "id": "Alcohol",
+        "node_type": "S2",
+        "associations": [],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428948"
+      },
+      {
+        "id": "Father",
+        "node_type": "S2",
+        "associations": [],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428952"
+      },
+      {
+        "id": "Belonging",
+        "node_type": "S2",
+        "associations": [],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428977"
+      },
+      {
+        "id": "Security",
+        "node_type": "S2",
+        "associations": [],
+        "metaphoric_substitutions": [],
+        "activation": 0.0,
+        "repressed": false,
+        "timestamp": "2025-07-05T20:39:30.428982"
+      }
+    ],
+    "edges": [
+      {
+        "source": "Zack",
+        "target": "Alice",
+        "edge_type": "metonymy",
+        "association_type": "displacement",
+        "weight": 0.7,
+        "timestamp": "2025-07-05T20:39:30.428904"
+      },
+      {
+        "source": "Baby Cindy",
+        "target": "Zack",
+        "edge_type": "retroactive",
+        "effect": "meaning_determination",
+        "timestamp": "2025-07-05T20:39:30.428936"
+      },
+      {
+        "source": "Baby Cindy",
+        "target": "Alice",
+        "edge_type": "retroactive",
+        "effect": "meaning_determination",
+        "timestamp": "2025-07-05T20:39:30.428941"
+      },
+      {
+        "source": "Baby Cindy",
+        "target": "Alcohol",
+        "edge_type": "retroactive",
+        "effect": "meaning_determination",
+        "timestamp": "2025-07-05T20:39:30.428969"
+      },
+      {
+        "source": "Baby Cindy",
+        "target": "Father",
+        "edge_type": "retroactive",
+        "effect": "meaning_determination",
+        "timestamp": "2025-07-05T20:39:30.428972"
+      },
+      {
+        "source": "House/Apartment",
+        "target": "Belonging",
+        "edge_type": "metonymy",
+        "association_type": "displacement",
+        "weight": 0.7,
+        "timestamp": "2025-07-05T20:39:30.428989"
+      },
+      {
+        "source": "Alice",
+        "target": "Baby Cindy",
+        "edge_type": "metonymy",
+        "association_type": "displacement",
+        "weight": 0.7,
+        "timestamp": "2025-07-05T20:39:30.428928"
+      },
+      {
+        "source": "Alcohol",
+        "target": "Father",
+        "edge_type": "metonymy",
+        "association_type": "displacement",
+        "weight": 0.7,
+        "timestamp": "2025-07-05T20:39:30.428961"
+      },
+      {
+        "source": "Father",
+        "target": "Baby Cindy",
+        "edge_type": "metonymy",
+        "association_type": "displacement",
+        "weight": 0.7,
+        "timestamp": "2025-07-05T20:39:30.428965"
+      },
+      {
+        "source": "Belonging",
+        "target": "Security",
+        "edge_type": "metonymy",
+        "association_type": "displacement",
+        "weight": 0.7,
+        "timestamp": "2025-07-05T20:39:30.428993"
+      },
+      {
+        "source": "Security",
+        "target": "House/Apartment",
+        "edge_type": "retroactive",
+        "effect": "meaning_determination",
+        "timestamp": "2025-07-05T20:39:30.428997"
+      },
+      {
+        "source": "Security",
+        "target": "Belonging",
+        "edge_type": "retroactive",
+        "effect": "meaning_determination",
+        "timestamp": "2025-07-05T20:39:30.429001"
+      }
+    ],
+    "master_signifiers": {},
+    "signifying_chains": {
+      "Zack-Alice-Cindy triangle": {
+        "name": "Zack-Alice-Cindy triangle",
+        "signifiers": [
+          "Zack",
+          "Alice",
+          "Baby Cindy"
+        ],
+        "type": "mixed",
+        "retroactive": true,
+        "quilting_points": [],
+        "slippage_points": []
+      },
+      "Drunkenness-Loss of Control-Family Disruption": {
+        "name": "Drunkenness-Loss of Control-Family Disruption",
+        "signifiers": [
+          "Alcohol",
+          "Father",
+          "Baby Cindy"
+        ],
+        "type": "mixed",
+        "retroactive": true,
+        "quilting_points": [],
+        "slippage_points": []
+      },
+      "Home/Apartment - Security": {
+        "name": "Home/Apartment - Security",
+        "signifiers": [
+          "House/Apartment",
+          "Belonging",
+          "Security"
+        ],
+        "type": "mixed",
+        "retroactive": true,
+        "quilting_points": [],
+        "slippage_points": []
+      }
+    },
+    "object_a_positions": [],
+    "quilting_points": [],
+    "retroactive_effects": {
+      "Zack-Alice-Cindy triangle": {
+        "determining_signifier": "Baby Cindy",
+        "retroactive_targets": [
+          "Zack",
+          "Alice"
+        ],
+        "meaning_effect": "Baby Cindy retroactively determines meaning"
+      },
+      "Drunkenness-Loss of Control-Family Disruption": {
+        "determining_signifier": "Baby Cindy",
+        "retroactive_targets": [
+          "Alcohol",
+          "Father"
+        ],
+        "meaning_effect": "Baby Cindy retroactively determines meaning"
+      },
+      "Home/Apartment - Security": {
+        "determining_signifier": "Security",
+        "retroactive_targets": [
+          "House/Apartment",
+          "Belonging"
+        ],
+        "meaning_effect": "Security retroactively determines meaning"
+      }
+    },
+    "metadata": {
+      "node_count": 11,
+      "edge_count": 12,
+      "chain_count": 3,
+      "quilting_point_count": 0
+    }
+  },
+  "visualizations": {
+    "Baby Cindy": {
+      "image_path": "base_agents/Nancy/signifier_images/Baby_Cindy.png",
+      "signifier_data": {
+        "name": "Baby Cindy",
+        "significance": "Represents Nancy's maternal role, but also carries anxieties about her ability to protect and care for her child, as well as anxieties related to Zack's role as father.",
+        "associations": [
+          "Vulnerability",
+          "Responsibility",
+          "Zack's fatherhood",
+          "Dependency",
+          "Love"
+        ],
+        "relation_to_desire": "Cindy functions as a symbol of Nancy's desire to be a good mother and to create a stable family unit, but also reveals her anxieties about her own competence and the stability of her relationship with Zack.",
+        "repressed": false
+      },
+      "visualization_concept": "Create a surrealist image representing the unconscious signifier 'Baby Cindy'.\n\nPsychoanalytic significance: Represents Nancy's maternal role, but also carries anxieties about her ability to protect and care for her child, as well as anxieties related to Zack's role as father.\nAssociations: Vulnerability, Responsibility, Zack's fatherhood, Dependency, Love\n\n\nStyle: Surrealist art in the manner of Salvador Dal\u00ed and Ren\u00e9 Magritte\nMood: Uncanny, dreamlike, symbolic\nElements: Visual distortion, impossible geometries, symbolic condensation\nQuality: High-resolution, detailed, evocative of unconscious depths"
+    },
+    "Alcohol (Beer, Scotch, Champagne)": {
+      "image_path": "base_agents/Nancy/signifier_images/Alcohol_Beer_Scotch_Champagne.png",
+      "signifier_data": {
+        "name": "Alcohol (Beer, Scotch, Champagne)",
+        "significance": "Associated with negative experiences and feelings of loss of control (father's drunkenness, Zack's drinking). It represents a threat to stability and the family unit.",
+        "associations": [
+          "Loss of control",
+          "Depression",
+          "Father's behavior",
+          "Zack's sadness",
+          "Pre-wedding dinner"
+        ],
+        "relation_to_desire": "Alcohol is not directly tied to Nancy's explicit desire, but its presence signals a disruption of the desired familial stability and control.",
+        "repressed": true
+      },
+      "visualization_concept": "Create a surrealist image representing the unconscious signifier 'Alcohol (Beer, Scotch, Champagne)'.\n\nPsychoanalytic significance: Associated with negative experiences and feelings of loss of control (father's drunkenness, Zack's drinking). It represents a threat to stability and the family unit.\nAssociations: Loss of control, Depression, Father's behavior, Zack's sadness, Pre-wedding dinner\n\n\nStyle: Surrealist art in the manner of Salvador Dal\u00ed and Ren\u00e9 Magritte\nMood: Uncanny, dreamlike, symbolic\nElements: Visual distortion, impossible geometries, symbolic condensation\nQuality: High-resolution, detailed, evocative of unconscious depths"
+    },
+    "Work/School/Career": {
+      "image_path": "base_agents/Nancy/signifier_images/WorkSchoolCareer.png",
+      "signifier_data": {
+        "name": "Work/School/Career",
+        "significance": "Signifies Nancy's attempts at self-improvement and independence, but is often associated with failure and anxiety (failing grades, work-related conflicts, professional help, moving, etc.).",
+        "associations": [
+          "Genetics midterm",
+          "Medical field",
+          "waitress",
+          "dolls owner"
+        ],
+        "relation_to_desire": "Relates to Nancy's desire for independence and self-sufficiency but is constantly undermined by anxieties and perceived failures.",
+        "repressed": true
+      },
+      "visualization_concept": "Create a surrealist image representing the unconscious signifier 'Work/School/Career'.\n\nPsychoanalytic significance: Signifies Nancy's attempts at self-improvement and independence, but is often associated with failure and anxiety (failing grades, work-related conflicts, professional help, moving, etc.).\nAssociations: Genetics midterm, Medical field, waitress, dolls owner\n\n\nStyle: Surrealist art in the manner of Salvador Dal\u00ed and Ren\u00e9 Magritte\nMood: Uncanny, dreamlike, symbolic\nElements: Visual distortion, impossible geometries, symbolic condensation\nQuality: High-resolution, detailed, evocative of unconscious depths"
+    }
+  },
+  "metadata": {
+    "agent_name": "Nancy",
+    "extraction_date": "2025-07-05T20:39:53.962086",
+    "theoretical_framework": "Lacanian Psychoanalysis",
+    "dream_count": 44,
+    "fallback_mode": false
+  }
+}
